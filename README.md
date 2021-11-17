@@ -1,12 +1,12 @@
 # Coin Cartel Account Security Vulnerability
 > When trusting your software vendor goes horribly wrong! Wondering if other people may be doing the same thing? Contact us privately via DMs!
 > <br>
-> **Video Demonstration**: [Video](https://youtu.be/BWeS0avpmNk)
 ## Read this before you continue:
 > **Legal Disclaimer**: There are no acts to defame or libel anyone as all accusations are supported by solid-proof evidence.
 > <br>
 > **File Takedown**: Please contact me privately to resolve things before issues get out of hand, This was done for good faith.
-
+> **Video Demonstration**: [Security Advisory Video](https://youtu.be/BWeS0avpmNk)
+> 
 ### Details:
   > **Discovery Date**: 11/14/2021
   > <br>
