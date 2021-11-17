@@ -49,5 +49,7 @@
 > <br>
 > Please be safe when purchasing software or things like this may arise again in the future, Then again. Thank you for reading this Security Advisory on Coin Cartel, I hope you have a wonderful day.
 
-### Contact us:
-> Want to reach us? You can contact me at eleven#1337 or join our at [Discord Server](https://discord.gg/StJcrgxrqR)
+### Contact us & Discussion:
+> Want to reach us? You can contact me at eleven#1337
+> <br>
+> Want to discuss with other people about the topic? Join our at [Discord Server](https://discord.gg/StJcrgxrqR)!
