@@ -5,6 +5,7 @@
 > **Legal Disclaimer**: There are no acts to defame or libel anyone as all accusations are supported by solid-proof evidence.
 > <br>
 > **File Takedown**: Please contact me privately to resolve things before issues get out of hand, This was done for good faith.
+> <br>
 > **Video Demonstration**: [Security Advisory Video](https://youtu.be/BWeS0avpmNk)
 > 
 ### Details:
