@@ -21,7 +21,7 @@
 > This vulnerability affects all Coin Cartel Paid & Crack users using any related Coin Cartel Scripting Product(s).
 
 ### Description:
-> This vulnerability was made possible by Coin Cartel Management ("Blitzkrieg/Blitz") after pushing malicious code to production near the original release of 0.0.4_(build).zip (9/20/2021), Though we cannot confirm the original beginnings of the vulnerability it is a violation of user trust and privacy. This allows the attacker in this case ("Coin Cartel") the ability to have full unlimited access until your Session ID is invalidated. This vulnerability affects everyone using the Paid & Cracked verisons of Coin Cartel Scripting Product(s) due to the naturally ability of websockets and it's willingness to accept any connections as long as it's online.
+> This vulnerability was made possible by Coin Cartel Management ("Blitzkrieg/Blitz") after pushing malicious code to production near the original release of 0.0.4_(build).zip (9/20/2021), Though we cannot confirm the original beginnings of the vulnerability it is a violation of user trust and privacy. This allows the attacker in this case ("Coin Cartel") the ability to have full unlimited access to your minecraft account until your Session ID is invalidated. This vulnerability affects everyone using the Paid & Cracked verisons of Coin Cartel Scripting Product(s) due to the naturally ability of websockets and it's willingness to accept any connections as long as it's online.
 
 ### Reproduction
 > **How is this possible?** This vulnerability is caused by a malicious module dynamically loaded when authenticated with there servers.
