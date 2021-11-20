@@ -45,12 +45,12 @@
 > There are no fool-proof plans for the paid version but another story for the cracked version, Though I won't disclose how to manually patch these files to disable the module I would recommend you guys to stop using any assorted Coin Cartel Scripting Product(s) until I develop a viable solution though the likeliness is slim.
 
 ### Takeaway:
-> Coin Cartel as a software company failed to provide clean functional programs to it's already massive community. Violating simple user trust and privacy I now heavily believe you should now stay away from this project due to the owner's dysfunctional operational abilities.
+> Coin Cartel as a software company failed to provide clean functional programs to it's already massive community. Violating simple user trust and privacy I now heavily believe you should stay away from this project due to the owner's dysfunctional operational abilities.
 > <br>
 > <br>
 > Please be safe when purchasing software or things like this may arise again in the future, Then again. Thank you for reading this Security Advisory on Coin Cartel, I hope you have a wonderful day.
 
 ### Contact us & Discussion:
-> Want to reach us? You can contact me at eleven#1337
+> Want to reach me? You can contact me at eleven#1337
 > <br>
 > Want to discuss with other people about the topic? Join our at [Discord Server](https://discord.gg/StJcrgxrqR)!
