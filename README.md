@@ -13,7 +13,7 @@
   > <br>
   > **Discovery By**: eleven#1337
   > <br>
-  > **Disclosure**: 11/17/2021
+  > **Disclosure**: 11/20/2021
   > <br>
   > **Severity**: High
  
